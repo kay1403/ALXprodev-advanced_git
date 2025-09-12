@@ -2,14 +2,14 @@
 
 This project demonstrates the setup and initialization of a Git repository using the **GitFlow** workflow.
 
-## 🚀 Objectives
+## Objectives
 
 - Initialize a Git repository with GitFlow.
 - Create and push a `develop` branch.
 - Set up project structure using standard GitFlow branches (`feature/`, `release/`, `hotfix/`).
 - Create and commit a sample file (README).
 
-## 🛠️ GitFlow Setup Steps
+## GitFlow Setup Steps
 
 1. **Install git-flow**  
    ```bash
@@ -19,7 +19,7 @@ This project demonstrates the setup and initialization of a Git repository using
 
 2. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/ALXprodev-advanced_git.git
+    git clone https://github.com/kay1403/ALXprodev-advanced_git.git
     cd ALXprodev-advanced_git
     ```
 
@@ -42,7 +42,7 @@ This project demonstrates the setup and initialization of a Git repository using
     git push
     ```
 
-6. **📚 Branches**
+6. **Branches**
     main – Stable production branch
 
     develop – Integration branch for development
@@ -52,3 +52,4 @@ This project demonstrates the setup and initialization of a Git repository using
     release/* – Pre-release preparations
 
     hotfix/* – Critical production fixes
+
